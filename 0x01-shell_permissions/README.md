@@ -6,3 +6,4 @@ empty
 execute
 multiple permission
 eveybody
+james bond
