@@ -9,3 +9,4 @@ eveybody
 james bond
 john doe
 mirror permission
+directory permission
