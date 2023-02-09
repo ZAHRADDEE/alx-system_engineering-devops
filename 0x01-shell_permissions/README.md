@@ -13,3 +13,4 @@ directory permission
 dir permission
 change grp owner
 change owner and group
+symbolic link permissions
