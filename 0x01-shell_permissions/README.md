@@ -11,3 +11,4 @@ john doe
 mirror permission
 directory permission
 dir permission
+change grp owner
